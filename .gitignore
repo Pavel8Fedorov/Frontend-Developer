@@ -1,0 +1,7 @@
+# игнор папок
+.idea/
+.vscode/
+node_modules/
+
+# игнор файлов
+.DS_Store
